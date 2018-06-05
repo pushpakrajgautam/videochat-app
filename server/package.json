@@ -1,0 +1,7 @@
+{
+  "name": "videochat",
+  "version": "1.0.0",
+  "dependencies": {
+    "peer": "^0.2.8"
+  }
+}
